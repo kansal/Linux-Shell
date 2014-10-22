@@ -16,5 +16,5 @@ Screenshot
 
 This screenshot shows the working of the program. 
 
-![alt text] (web.iiit.ac.in/~kshitij.kansal/shell.png)
+![alt text](http://web.iiit.ac.in/~kshitij.kansal/shell.png)
 
