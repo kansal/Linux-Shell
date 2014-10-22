@@ -8,6 +8,7 @@ Running Code
 ------------
 
 `gcc shell.c` : Compiles the `C` code.
+
 `./a.out` : executes the binary.
 
 Screenshot
